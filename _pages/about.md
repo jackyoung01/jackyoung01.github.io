@@ -15,4 +15,4 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 没什么成就成果，了解java，c++，擅长CV编程，对大模型比较有兴趣  
 
-准备考研，万一找到好工作就不考了，顺其自然
+准备考研，顺其自然
